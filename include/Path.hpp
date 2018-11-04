@@ -14,7 +14,7 @@ class Path {
   static const char *meetingPath;
 };
 
-const char *Path::meetingPath = "/tmp/meetings.csv";
-const char *Path::userPath = "/tmp/users.csv";
+const char *Path::meetingPath = "/mnt/c/Users/HP/Desktop/Github/Agenda/tmp/meetings.csv";
+const char *Path::userPath = "/mnt/c/Users/HP/Desktop/Github/Agenda/tmp/users.csv";
 
 #endif
